@@ -12,11 +12,9 @@ NEVER CLONE A REPO INTO A REPO
 
 ---
 
-- branch
-  This is branched to adding notes
-  VIEW BRANCHES
-  git branch -a, see all of the branches
-
+VIEW BRANCHES
+git branch -a, see all of the branches
+  
 CREATE BRANCHES
 git checkout -b name-of-branch, create new branch
 
